@@ -1,0 +1,10 @@
+{
+    "name": "ahmed/queue",
+    "authors": [
+        {
+            "name": "Ahmed Fawzy",
+            "email": "ahmedelmeshtawy250@yahoo.com"
+        }
+    ],
+    "require": {}
+}
